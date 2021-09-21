@@ -34,7 +34,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import java.util.ArrayList;
 import java.util.List;
 
-// for maps reinsert implements OnMapReadyCallback
+// TODO for maps start with reinserting "implements OnMapReadyCallback"
 public class TodoListViewActivity extends AppCompatActivity implements OnTodoClickListener{
 
     private static final int PERMISSIONS_REQUEST_READ_CONTACTS = 0;
